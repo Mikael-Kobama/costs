@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "id": "05a3",
+      "name": "aaaaa",
+      "budget": "121212",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ad7a",
+      "name": "chuchu",
+      "budget": "10000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 6022,
+      "services": [
+        {
+          "name": "teste1",
+          "cost": "1200",
+          "description": "testando",
+          "id": "e1d89ba1-8acf-49f4-b7f5-d1e85d8cd85a"
+        },
+        {
+          "name": "teste1",
+          "cost": "1200",
+          "description": "testando",
+          "id": "e1d89ba1-8acf-49f4-b7f5-d1e85d8cd85a"
+        },
+        {
+          "name": "teste1",
+          "cost": "1200",
+          "description": "testando",
+          "id": "e1d89ba1-8acf-49f4-b7f5-d1e85d8cd85a"
+        },
+        {
+          "name": "teste1",
+          "cost": "1200",
+          "description": "testando",
+          "id": "e1d89ba1-8acf-49f4-b7f5-d1e85d8cd85a"
+        },
+        {
+          "name": "teste1",
+          "cost": "1200",
+          "description": "testando",
+          "id": "e1d89ba1-8acf-49f4-b7f5-d1e85d8cd85a"
+        },
+        {
+          "name": "testando",
+          "cost": "22",
+          "description": "teste",
+          "id": "6c21275c-7275-43b9-bdb8-11d919f3ec4c"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
